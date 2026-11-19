@@ -1,24 +1,5 @@
 [
   {
-    "id": "stop-motion-animation-puppet-fabrication-guild-reddit-1",
-    "title": "r/gamedev Developers Network",
-    "platform": "Reddit",
-    "category": "Game Development",
-    "memberCount": "1,400,000+ members",
-    "description": "The premier community for game designers, indie developers, gameplay programmers, and procedural artists.",
-    "joinUrl": "https://www.reddit.com/r/gamedev/",
-    "tags": [
-      "gamedev",
-      "indiedev",
-      "design",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": true,
-    "lastUpdated": "2026-11-18"
-  },
-  {
     "id": "stop-motion-animation-puppet-fabrication-guild-reddit-2",
     "title": "r/blender 3D Modeling Community",
     "platform": "Reddit",
@@ -34,7 +15,27 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": false
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
+    "id": "stop-motion-animation-puppet-fabrication-guild-reddit-1",
+    "title": "r/gamedev Developers Network",
+    "platform": "Reddit",
+    "category": "Game Development",
+    "memberCount": "1,400,000+ members",
+    "description": "The premier community for game designers, indie developers, gameplay programmers, and procedural artists.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
+    "tags": [
+      "gamedev",
+      "indiedev",
+      "design",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": false,
+    "lastUpdated": "2026-11-18"
   },
   {
     "id": "stop-motion-animation-puppet-fabrication-guild-reddit-3",
