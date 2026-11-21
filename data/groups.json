@@ -1,5 +1,24 @@
 [
   {
+    "id": "stop-motion-animation-puppet-fabrication-guild-reddit-4",
+    "title": "r/unrealengine Creators",
+    "platform": "Reddit",
+    "category": "Game Engines",
+    "memberCount": "320,000+ members",
+    "description": "Unreal Engine 5 enthusiasts discussing Nanite, Lumen, Blueprints, C++ architecture, and MetaHumans.",
+    "joinUrl": "https://www.reddit.com/r/unrealengine/",
+    "tags": [
+      "unreal",
+      "ue5",
+      "graphics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "stop-motion-animation-puppet-fabrication-guild-reddit-3",
     "title": "r/unity3d Engine Developers",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -55,24 +74,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
-  },
-  {
-    "id": "stop-motion-animation-puppet-fabrication-guild-reddit-4",
-    "title": "r/unrealengine Creators",
-    "platform": "Reddit",
-    "category": "Game Engines",
-    "memberCount": "320,000+ members",
-    "description": "Unreal Engine 5 enthusiasts discussing Nanite, Lumen, Blueprints, C++ architecture, and MetaHumans.",
-    "joinUrl": "https://www.reddit.com/r/unrealengine/",
-    "tags": [
-      "unreal",
-      "ue5",
-      "graphics",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "stop-motion-animation-puppet-fabrication-guild-discord-5",
