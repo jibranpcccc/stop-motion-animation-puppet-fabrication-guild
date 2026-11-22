@@ -1,5 +1,24 @@
 [
   {
+    "id": "stop-motion-animation-puppet-fabrication-guild-discord-5",
+    "title": "Game Dev League Discord",
+    "platform": "Discord",
+    "category": "Game Development",
+    "memberCount": "82,000+ members",
+    "description": "A massive community of game developers, artists, sound engineers, and game jam participants on Discord.",
+    "joinUrl": "https://discord.gg/gamedev",
+    "tags": [
+      "gamedev",
+      "discord",
+      "indiedev",
+      "art"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "stop-motion-animation-puppet-fabrication-guild-reddit-4",
     "title": "r/unrealengine Creators",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -74,24 +93,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
-  },
-  {
-    "id": "stop-motion-animation-puppet-fabrication-guild-discord-5",
-    "title": "Game Dev League Discord",
-    "platform": "Discord",
-    "category": "Game Development",
-    "memberCount": "82,000+ members",
-    "description": "A massive community of game developers, artists, sound engineers, and game jam participants on Discord.",
-    "joinUrl": "https://discord.gg/gamedev",
-    "tags": [
-      "gamedev",
-      "discord",
-      "indiedev",
-      "art"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "stop-motion-animation-puppet-fabrication-guild-discord-6",
