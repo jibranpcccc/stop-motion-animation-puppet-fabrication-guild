@@ -1,5 +1,24 @@
 [
   {
+    "id": "stop-motion-animation-puppet-fabrication-guild-forum-8",
+    "title": "Blender Artists Community Forum",
+    "platform": "Forum",
+    "category": "3D & VFX",
+    "memberCount": "400,000+ members",
+    "description": "The central hub for Blender artwork critique, tutorial sharing, addon releases, and production pipelines.",
+    "joinUrl": "https://blenderartists.org",
+    "tags": [
+      "blender",
+      "forum",
+      "art",
+      "critique"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "stop-motion-animation-puppet-fabrication-guild-telegram-7",
     "title": "Indie Game Developers Channel",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -131,24 +150,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
-  },
-  {
-    "id": "stop-motion-animation-puppet-fabrication-guild-forum-8",
-    "title": "Blender Artists Community Forum",
-    "platform": "Forum",
-    "category": "3D & VFX",
-    "memberCount": "400,000+ members",
-    "description": "The central hub for Blender artwork critique, tutorial sharing, addon releases, and production pipelines.",
-    "joinUrl": "https://blenderartists.org",
-    "tags": [
-      "blender",
-      "forum",
-      "art",
-      "critique"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "stop-motion-animation-puppet-fabrication-guild-reddit-9",
